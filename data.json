@@ -1,0 +1,43 @@
+{
+    "activity": [{
+            "title": "Guided trip"
+        },
+        {
+            "title": "Trip Photorapher"
+        },
+        {
+            "title": "Awesome Activity"
+        }
+    ],
+    "destinations": [{
+            "ville": "Mahajanga",
+            "price": 250,
+            "img": "../src/assets/bridge.jpg"
+        },
+        {
+            "ville": "Pique",
+            "price": 350,
+            "img": "../src/assets/sky-point.jpg"
+        },
+        {
+            "ville": "Maki",
+            "price": 200,
+            "img": "../src/assets/Maki.jpg"
+        },
+        {
+            "ville": "Morondava",
+            "price": 200,
+            "img": "../src/assets/Rectangle 8.jpg"
+        },
+        {
+            "ville": "Tamatave",
+            "price": 200,
+            "img": "../src/assets/water-point.jpg"
+        },
+        {
+            "ville": "Baobab",
+            "price": 330,
+            "img": "../src/assets/baobab.jpg"
+        }
+    ]
+}

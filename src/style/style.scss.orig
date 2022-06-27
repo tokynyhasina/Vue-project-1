@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+<<<<<<< HEAD
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+=======
+#app {
+    font-family: 'DM Sans', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+>>>>>>> v-2
